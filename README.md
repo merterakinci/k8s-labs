@@ -9,7 +9,8 @@ Part of a learning path toward CKA (Certified Kubernetes Administrator) and CKS 
 
 ## Progress
 - [x] Minikube cluster running locally
-- [ ] First Pod deployment
+- [x] First Pod deployment (declarative YAML)
+- [x] Service to expose Pod (NodePort)
 - [ ] Deployments and Services
 - [ ] ConfigMaps and Secrets
 - [ ] Persistent storage
