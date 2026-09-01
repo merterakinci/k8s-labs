@@ -15,4 +15,4 @@ Part of a learning path toward CKA (Certified Kubernetes Administrator) and CKS 
 - [x] ConfigMap and Secret injection
 - [x] RBAC: ServiceAccount, Role, RoleBinding (least privilege demonstrated)
 - [X] Network policies (CKS prep)
-- [ ] Persistent storage
+- [X] Persistent storage
