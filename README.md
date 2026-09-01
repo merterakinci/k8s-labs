@@ -11,8 +11,8 @@ Part of a learning path toward CKA (Certified Kubernetes Administrator) and CKS 
 - [x] Minikube cluster running locally
 - [x] First Pod deployment (declarative YAML)
 - [x] Service to expose Pod (NodePort)
-- [X] Deployments and Services
-- [X] ConfigMaps and Secrets
-- [ ] Persistent storage
-- [ ] RBAC and security policies (CKS prep)
+- [x] Deployment with replicas, self-healing, rolling updates
+- [x] ConfigMap and Secret injection
+- [x] RBAC: ServiceAccount, Role, RoleBinding (least privilege demonstrated)
 - [ ] Network policies (CKS prep)
+- [ ] Persistent storage
