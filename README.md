@@ -16,3 +16,6 @@ Part of a learning path toward CKA (Certified Kubernetes Administrator) and CKS 
 - [x] RBAC: ServiceAccount, Role, RoleBinding (least privilege demonstrated)
 - [X] Network policies (CKS prep)
 - [X] Persistent storage
+
+## Project Summary
+See [project_summary.pdf](./docs/k8s-labs_final_summary.pdf) for a detailed overview of what was built and how it was verified.
