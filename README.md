@@ -14,5 +14,5 @@ Part of a learning path toward CKA (Certified Kubernetes Administrator) and CKS 
 - [x] Deployment with replicas, self-healing, rolling updates
 - [x] ConfigMap and Secret injection
 - [x] RBAC: ServiceAccount, Role, RoleBinding (least privilege demonstrated)
-- [ ] Network policies (CKS prep)
+- [X] Network policies (CKS prep)
 - [ ] Persistent storage
